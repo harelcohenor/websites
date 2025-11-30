@@ -9,9 +9,9 @@
     </asp:ContentPlaceHolder>
 </head>
 <body>
-   <h1>harelwebsite</h1>
+  <h2>welcome to the website </h2>
         <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
-        
+       
         </asp:ContentPlaceHolder>
     
 </body>
